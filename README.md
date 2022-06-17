@@ -1,4 +1,5 @@
 # Research-on-Geolocation-with-Deep-NNs
+
 This research tackles the subject of geolocation with the help of deep neural networks. More specifically, the geolocation was concerned on fuel depots that were existed 
 in highways and local roads. Famous applications about geolocation, like Google Maps, does not have the ability of making a specific marker on fuel depots on a specific 
 address, for example 8th km of Larissa - Volos Highway. Additionally, they return the geographic middle point of the address, if they understand it, or nothing at all, 
